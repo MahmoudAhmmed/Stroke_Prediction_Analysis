@@ -13,8 +13,6 @@
 
 <br />
 
-*(Note: Add a screenshot of your Streamlit app here!)* </div>
-
 ---
 
 ## 📖 Project Overview
