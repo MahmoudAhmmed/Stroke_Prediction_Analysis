@@ -6,12 +6,10 @@
 
 <br />
 
-<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" />
-<img src="[https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)" alt="Jupyter Notebook" />
-<img src="[https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)" alt="Scikit-Learn" />
-<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)" alt="Streamlit" />
-
-<br />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
 
 </div>
 
@@ -50,13 +48,14 @@ Stroke_Prediction_Analysis/
 
 ## 🛠️ Technologies Used
 
-| Category | Tools / Libraries |
-| :--- | :--- |
-| **Programming Language** | Python 🐍 |
-| **Data Manipulation** | Pandas, NumPy |
-| **Machine Learning** | Scikit-Learn |
-| **Web Deployment** | Streamlit |
-| **Environment** | Jupyter Notebook, VS Code |
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</div>
 
 ---
 
@@ -66,7 +65,7 @@ To run this project locally, follow these steps:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis.git
+git clone [https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis.git](https://github.com/MahmoudAhmmed/Stroke_Prediction_Analysis.git)
 cd Stroke_Prediction_Analysis
 ```
 
@@ -87,16 +86,11 @@ The app will open automatically in your default web browser at `http://localhost
 
 ## 🤝 Let's Connect!
 
-Feel free to reach out if you have any questions or suggestions regarding this project.
-
 <div align="center">
-  <a href="[https://www.linkedin.com/in/mahmoud-ahmed-22505527a](https://www.linkedin.com/in/mahmoud-ahmed-22505527a)">
-    <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mahmoud-ahmed-22505527a">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mahmoud.aa04@gmail.com">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
-  </a>
-  <a href="[https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/](https://mahmoudahmmed.github.io/MahmoudAhmed.github.io/)">
-    <img src="[https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white)" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
